@@ -1,0 +1,11 @@
+body {
+    margin: 10px;
+}
+
+.heading {
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
